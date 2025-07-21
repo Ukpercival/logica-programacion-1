@@ -1,1 +1,1 @@
-Hola, el programa se eejcuta en terminal
+Hola, el programa se ejecuta en terminal
